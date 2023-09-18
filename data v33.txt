@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The Lada 2104, as it is known domestically in Russia, was introduced in the late 1980s as an upgraded version of the earlier 2101 model, which was itself based on the Fiat 124. AvtoVAZ ",
+   "photo1":"https://iili.io/JHZ9P3B.webp"},
+  {"desc2":"the manufacturer, was a joint venture between the Soviet Union and Fiat, which contributed to the car's Italian design influences","photo2":"https://iili.io/JHZ9rEQ.webp"},
+  {"desc3":"The 2104 was part of the Zhiguli family of vehicles, which were well-known for their robustness, simplicity, and affordability","photo3":"https://iili.io/JHZ9SQj.webp"},
+  {"desc4":"These qualities made them immensely popular not only in Russia but also in several other countries where they were exported","photo4":"https://iili.io/JHZ9gCx.webp"},
+  {"desc5":"The Zhiguli Simulator 2104 Four retained much of the classic design that characterized its predecessor, the 2101. Its exterior featured clean lines, a compact body, and a spacious interior, making it an ideal family car for its time","photo5":"https://iili.io/JHZ944V.webp"},
+  {"descd":"The front end boasted a distinctive chrome grille, and the overall design was reminiscent of European sedans of the era","photod":"https://iili.io/JHZ9iYP.webp"}
    ]
  
 }
