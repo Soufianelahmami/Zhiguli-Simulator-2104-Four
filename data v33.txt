@@ -1,54 +1,60 @@
-{"ads":{
-  
-
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
- 
-
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
-  
-
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
-
-  
-
-
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
-  
-
-},
-  "my_data":[
-  {"desc1":"The Lada 2104, as it is known domestically in Russia, was introduced in the late 1980s as an upgraded version of the earlier 2101 model, which was itself based on the Fiat 124. AvtoVAZ ",
-   "photo1":"https://iili.io/JHZ9P3B.webp"},
-  {"desc2":"the manufacturer, was a joint venture between the Soviet Union and Fiat, which contributed to the car's Italian design influences","photo2":"https://iili.io/JHZ9rEQ.webp"},
-  {"desc3":"The 2104 was part of the Zhiguli family of vehicles, which were well-known for their robustness, simplicity, and affordability","photo3":"https://iili.io/JHZ9SQj.webp"},
-  {"desc4":"These qualities made them immensely popular not only in Russia but also in several other countries where they were exported","photo4":"https://iili.io/JHZ9gCx.webp"},
-  {"desc5":"The Zhiguli Simulator 2104 Four retained much of the classic design that characterized its predecessor, the 2101. Its exterior featured clean lines, a compact body, and a spacious interior, making it an ideal family car for its time","photo5":"https://iili.io/JHZ944V.webp"},
-  {"descd":"The front end boasted a distinctive chrome grille, and the overall design was reminiscent of European sedans of the era","photod":"https://iili.io/JHZ9iYP.webp"}
-   ]
- 
+{
+    "ADS": {
+        "banner_type_1": "yandex",
+        "inter_type_1": "yandex",
+        "native_type_1": "yandex",
+        "reward_type_1": "yandex",
+        "native_or_mrec_1": "native",
+        "ironsource_id": "ironsource_id_value",
+        "unity_id": "unity_id_value",
+        "banner_id_1": "demo-banner-yandex",
+        "interstitial_id_1": "demo-interstitial-yandex",
+        "reward_id_1": "demo-rewarded-yandex",
+        "mrec_id_1": "mrec_id_1_value",
+        "native_id_1": "demo-native-content-yandex",
+        "open_app_id": "demo-appopenad-yandex",
+        "store_link": "demo-native-content-yandex"
+    },
+    "guideData": [
+        {
+            "image_link": "https://iili.io/JJ9ZWss.webp",
+            "title": "Zhiguli Simulator 2104 Four 1",
+            "text_Content_": "The Zhiguli Simulator 2104 Four, often simply referred to as the Lada 2104, holds a special place in the history of the automotive industry"
+        },
+        {
+            "image_link": "https://iili.io/JJ9ZVXn.webp",
+            "title": "Zhiguli Simulator 2104 Four 2",
+            "text_Content_": "This compact Russian car, produced by AvtoVAZ, was not just a mode of transportation; it was a symbol of an era and a testament to the enduring legacy of the Soviet automotive industry"
+        },
+        {
+            "image_link": "https://iili.io/JJ9ZhqG.webp",
+            "title": "Zhiguli Simulator 2104 Four 3",
+            "text_Content_": "In this article, we'll take a closer look at the Zhiguli 2104, exploring its history, features, and its impact on car enthusiasts and everyday drivers alike"
+        },
+        {
+            "image_link": "https://iili.io/JJ9ZMzX.webp",
+            "title": "Zhiguli Simulator 2104 Four 4",
+            "text_Content_": "The story of the Zhiguli 2104 begins in the late 1970s when it was first introduced as an evolution of the Lada 2101 (also known as the VAZ-2101). AvtoVAZ, the leading Soviet automobile manufacturer, aimed to create a more modern and versatile car that could cater to the evolving needs of consumers"
+        },
+        {
+            "image_link": "https://iili.io/JJ9Zj1f.webp",
+            "title": "Zhiguli Simulator 2104 Four 5",
+            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+        },
+        {
+            "image_link": "https://iili.io/JJ9Zwg4.webp",
+            "title": "Zhiguli Simulator 2104 Four 6",
+            "text_Content_": " The 2104 represented a shift towards a more practical and family-oriented vehicle, and it was part of a broader effort to keep up with international automotive trends"
+        },
+        {
+            "image_link": "https://iili.io/JJ9ZOdl.webp",
+            "title": "Zhiguli Simulator 2104 Four 7",
+            "text_Content_": "The Lada 2104 featured a boxy yet charming design that was characteristic of many Eastern European cars of the time. It had a spacious interior that could comfortably accommodate a family of four, making it a popular choice among Soviet households. The 2104 was equipped with a four-cylinder engine, providing adequate power for daily driving and long journeys"
+        },
+        {
+            "image_link": "https://iili.io/JJ9Ze72.webp",
+            "title": "Zhiguli Simulator 2104 Four 8",
+            "text_Content_": "One of the standout features of the Zhiguli 2104 was its robust and rugged construction. This car was built to endure the harsh conditions of Russian roads, including the notorious potholes and challenging weather. Its reliability and durability quickly earned it a reputation as a workhorse vehicle that could be counted on for many years"
+        }
+    ]
 }
-   
